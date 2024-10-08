@@ -1,0 +1,2 @@
+algorithm,accuracy,f1,precision,recall,detection_rate
+decision_tree,0.69496,0.7660879700631863,0.6212317182369913,0.99904,0.99904
