@@ -45,5 +45,3 @@ A key contribution of this project is the **practicality** of the method, achiev
 ## Contact
 For more details or questions regarding this project, feel free to contact me at [pouria.dadkhah@gmail.com](mailto:pouria.dadkhah@gmail.com).
 
----
-Feel free to explore the project, use it for educational purposes, and contribute to improve the implementation!
